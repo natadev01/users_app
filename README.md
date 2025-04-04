@@ -44,7 +44,8 @@ flutter build apk --release
 
 El archivo `.apk` estará en:
 
-```build/app/outputs/flutter-apk/app-release.apk
+```
+build/app/outputs/flutter-apk/app-release.apk
 ```
 
 ---
